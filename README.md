@@ -1,2 +1,5 @@
-# tfg_romanzado
-Trabajo de Fin de Grado de Biología Ambiental
+# Simulación del comportamiento del fuego en el municipio Romanzado (Navarra) 
+#### Trabajo de Fin de Grado - Análisis de datos/ApS  | Grado de Biología Ambiental 2024 - 2025  | Leyre Labarga Kovarskaya
+
+Los incendios forestales constituyen una gran amenaza para los ecosistemas mediterráneos, especialmente en un contexto de abandono rural, acumulación de combustible y cambio climático. En este escenario, la planificación preventiva del territorio mediante la identificación de Áreas Estratégicas de Gestión (AEG) se presenta como una herramienta clave para reducir el riesgo. El presente trabajo tiene como objetivo analizar el comportamiento potencial del fuego en el municipio de Romanzado (Navarra) mediante el uso del software de simulación FlamMap, con el fin de identificar áreas prioritarias para la gestión del combustible. Para ello, se simularon escenarios meteorológicos extremos representativos del periodo de incendios para determinar las áreas fuera de capacidad de extinción y las principales trayectorias del fuego. Se identifican como áreas prioritarias el entorno forestal del núcleo urbano de Bigüezal, la interfaz entre el sector agrícola y forestal del municipio y la cresta de la Sierra de Leire, muchas de ellas localizadas dentro de espacios naturales protegidos. Estos resultados evidencian el valor de la modelización del fuego como herramienta de apoyo a la toma de decisiones y subrayan la necesidad de una gestión preventiva basada en el manejo del combustible.
+

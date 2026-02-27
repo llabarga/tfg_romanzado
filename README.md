@@ -1,7 +1,8 @@
-# Simulación del comportamiento del fuego en el municipio Romanzado (Navarra) 
-#### Trabajo de Fin de Grado - Análisis de datos/ApS  | Grado de Biología Ambiental 2024 - 2025  | Leyre Labarga Kovarskaya
+# Simulation of fire behaviour in Romanzado (Navarre, Spain)
+#### Environmental Biology Bachelor's Thesis
 
-🔥 Los incendios forestales constituyen una gran amenaza para los ecosistemas mediterráneos, especialmente en un contexto de abandono rural, acumulación de combustible y cambio climático. 
-📝 En este escenario, la planificación preventiva del territorio mediante la identificación de Áreas Estratégicas de Gestión (AEG) se presenta como una herramienta clave para reducir el riesgo. 
-📍 El presente trabajo tiene como objetivo analizar el comportamiento potencial del fuego en el municipio de Romanzado (Navarra) mediante el uso del software de simulación FlamMap.
+🔥 Forest fires pose a major threat to Mediterranean ecosystems, especially in a context of rural depopulation, fuel accumulation, and climate change.
 
+📝 In this scenario, preventative land-use planning through the identification of Strategic Management Areas (SMAs) is a key tool for reducing risk.
+
+📍 This study aims to analyze the potential behavior of fire in the municipality of Romanzado (Navarra) using the FlamMap simulation software. Most analysis were done with QGIS which main results can be seen in the document and the poster.
